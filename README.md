@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Íñigo 
 
-<!--
-**itsguzman48/itsguzman48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sysadmin (ASIR) especializándome en **IA y Big Data**. Me interesa el punto donde se juntan los dos mundos: llevar modelos y pipelines de datos a infraestructura real desplegada y monitorizada.
 
-Here are some ideas to get you started:
+📍 Bizkaia ·  Especialización en IA y Big Data ·  Buscando empresa para FP dual a partir de diciembre de 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+
+**Sistemas e infraestructura:** Linux (Ubuntu Server), Windows Server, Docker, WireGuard, Azure, DigitalOcean, Bash, PowerShell
+
+**Datos e IA:** Python, pandas, Polars, scikit-learn, Jupyter, InfluxDB, Grafana, SQL
+
+**Web:** Astro, TypeScript, HTML/CSS
+
+##  Proyectos destacados
+
+| Proyecto | Qué hace | Tecnologías |
+|---|---|---|
+| [SOC multi-cloud con IA](https://github.com/itsguzman48/Infraestructura-Hibrida-de-Ciberinteligencia-SOC-Multi-Cloud-con-IA) | Infraestructura SOC asíncrona en Azure y DigitalOcean que captura y clasifica ataques SSH en tiempo real con Llama 3.1, mapeando tácticas MITRE ATT&CK | Python, Docker, WireGuard, LLMs |
+| [HaizeLab](https://github.com/itsguzman48/haizelab-) | Monitorización de la calidad del aire y evaluación causal (Diff-in-Diff) del impacto de la ZBE de Bilbao (2022-2026). Proyecto en equipo | Python, Jupyter, inferencia causal |
+| [Sentinel-2 Movement](https://github.com/itsguzman48/sentinel2-movement) | Detección de objetos en movimiento y estimación de su velocidad usando el paralaje entre bandas de Sentinel-2 | Python, teledetección, visión por computador |
+| [LUXAI Video](https://github.com/itsguzman48/luxaivideo-web) | Web de mi propio servicio de vídeo con IA para alquileres de lujo, centrada en rendimiento y UX | Astro, TypeScript |
+
+##  Contacto
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:inigoguz48@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iniguzman)
