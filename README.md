@@ -4,7 +4,7 @@ Sysadmin (ASIR) especializándome en **IA y Big Data**. Me interesa el punto don
 
 📍 Bizkaia ·  Especialización en IA y Big Data ·  Buscando empresa para FP dual a partir de diciembre de 2026
 
-## 🛠️ Stack
+##  Stack
 
 **Sistemas e infraestructura:** Linux (Ubuntu Server), Windows Server, Docker, WireGuard, Azure, DigitalOcean, Bash, PowerShell
 
