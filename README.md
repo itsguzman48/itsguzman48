@@ -18,7 +18,7 @@ Sysadmin (ASIR) especializándome en **IA y Big Data**. Me interesa el punto don
 |---|---|---|
 | [SOC multi-cloud con IA](https://github.com/itsguzman48/Infraestructura-Hibrida-de-Ciberinteligencia-SOC-Multi-Cloud-con-IA) | Infraestructura SOC asíncrona en Azure y DigitalOcean que captura y clasifica ataques SSH en tiempo real con Llama 3.1, mapeando tácticas MITRE ATT&CK | Python, Docker, WireGuard, LLMs |
 | [HaizeLab](https://github.com/itsguzman48/haizelab-) | Monitorización de la calidad del aire y evaluación causal (Diff-in-Diff) del impacto de la ZBE de Bilbao (2022-2026). Proyecto en equipo | Python, Jupyter, inferencia causal |
-| [Sentinel-2 Movement](https://github.com/itsguzman48/sentinel2-movement) | Detección de objetos en movimiento y estimación de su velocidad usando el paralaje entre bandas de Sentinel-2 | Python, teledetección, visión por computador |
+| [Predicción Desgaste CNC](https://github.com/itsguzman48/cnc-tool-wear-prediction) | Mantenimiento predictivo industrial y XAI con XGBoost y SHAP para detectar desgaste de fresa con telemetría de mecanizado. App en producción | Python, XGBoost, SHAP, Streamlit |
 | [LUXAI Video](https://github.com/itsguzman48/luxaivideo-web) | Web de mi propio servicio de vídeo con IA para alquileres de lujo, centrada en rendimiento y UX | Astro, TypeScript |
 
 ##  Contacto
