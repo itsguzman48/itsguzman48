@@ -9,9 +9,6 @@
   <a href="mailto:inigoguz48@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://inigo-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-%230A0A0A.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
-  </a>
 </div>
 
 <p align="center">
